@@ -1,4 +1,4 @@
-{ 
+{
   "Data": [
     {
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/01.png",
@@ -40,5 +40,6 @@
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/10.png",
       "Score": 1000
     }
-  ]
+  ],
+  "Version": 1
 }
