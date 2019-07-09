@@ -1,42 +1,62 @@
 {
   "Data": [
     {
+      "Id":1,
+      "Name":"A",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/01.png",
       "Score": 100
     },
     {
+      "Id":2,
+      "Name":"b",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/02.png",
       "Score": 200
     },
     {
+      "Id":3,
+      "Name":"c",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/03.png",
       "Score": 300
     },
     {
+      "Id":4,
+      "Name":"d",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/04.png",
       "Score": 400
     },
     {
+      "Id":5,
+      "Name":"e",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/05.png",
       "Score": 500
     },
     {
+      "Id":6,
+      "Name":"f",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/06.png",
       "Score": 600
     },
     {
+      "Id":7,
+      "Name":"g",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/07.png",
       "Score": 700
     },
     {
+      "Id":8,
+      "Name":"h",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/08.png",
       "Score": 800
     },
     {
+      "Id":9,
+      "Name":"i",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/09.png",
       "Score": 900
     },
     {
+      "Id":10,
+      "Name":"j",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/10.png",
       "Score": 1000
     }
