@@ -1,6 +1,12 @@
 {
   "Data": [
     {
+     "Id":00,
+      "Name":"00",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/00.png",
+      "Score": 0
+    },
+    {
       "Id":1,
       "Name":"A",
       "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/01.png",
