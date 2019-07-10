@@ -9,55 +9,55 @@
     {
       "Id":1,
       "Name":"BASSY",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/01.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/1.png",
       "Score": 100
     },
     {
       "Id":2,
       "Name":"BLOWFISH",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/02.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/2.png",
       "Score": 200
     },
     {
       "Id":3,
       "Name":"FLU FISH",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/03.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/3.png",
       "Score": 300
     },
     {
       "Id":4,
       "Name":"STRIPY",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/04.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/4.png",
       "Score": 400
     },
     {
       "Id":5,
       "Name":"ANOTHER STRIPY",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/05.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/5.png",
       "Score": 500
     },
     {
       "Id":6,
       "Name":"SQUARE FISH",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/06.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/6.png",
       "Score": 600
     },
     {
       "Id":7,
       "Name":"RALPH",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/07.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/7.png",
       "Score": 700
     },
     {
       "Id":8,
       "Name":"RUPERT",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/08.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/8.png",
       "Score": 800
     },
     {
       "Id":9,
       "Name":"BULLY FISH",
-      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/09.png",
+      "ImagePath": "https://raw.githubusercontent.com/PAYALzariya/Data-of-json/master/9.png",
       "Score": 900
     },
     {
