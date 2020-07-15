@@ -1,0 +1,5 @@
+{
+"Department":
+[{"ID":"1","Name":"Electrical","Discription":"Electrical Engineering","Students":[{"id":"1","name":"John"},{"id":"2","name":"Mary"}]},
+{"ID":"2","Name":"Civil","Discription":"Civil Engineering","Students":[{"id":"1","name":"Jack"},{"id":"2","name":"Helen"}]}]
+}
